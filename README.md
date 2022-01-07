@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vatsal-24/](https://github.com/Vatsal-24/)
+- 👨‍💻 All of my projects are available at [:octocat:](https://github.com/Vatsal-24/)
 
-- 📝 I regularly write articles on [https://medium.com/@vatsaldoshi11](https://medium.com/@vatsaldoshi11)
+- 📝 I regularly write articles on [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vatsaldoshi11" height="30" width="40" />](https://medium.com/@vatsaldoshi11)
 
 - 📫 How to reach me **vatsaldoshi11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R2599_5juLxmyZvE7ek2PHUczGCpBk6m/view?usp=sharing](https://drive.google.com/file/d/1R2599_5juLxmyZvE7ek2PHUczGCpBk6m/view?usp=sharing)
+- 📄 Know about my experiences [📂](https://drive.google.com/file/d/1R2599_5juLxmyZvE7ek2PHUczGCpBk6m/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
