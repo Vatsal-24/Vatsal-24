@@ -1,6 +1,6 @@
-<img alt="img" src="" />
+<img alt="banner" src="banner.png" />
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
-<h3 align="center">Eat Sleep Code Invest Repeat</h3>
+<h3 align="center">Eat | Sleep | Code | Invest | Repeat</h3>
 
 - 🔭 I’m currently working on **V Trade**
 
