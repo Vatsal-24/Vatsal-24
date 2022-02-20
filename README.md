@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
 <h3 align="center">Eat | Sleep | Code | Invest | Repeat</h3>
 
-- 🔭 I’m currently working on **V Trade**
-
-- 🌱 I’m currently learning **Nodejs**
+- 🔭 I’m currently working on **Crypto Alert**
 
 - 👨‍💻 All of my projects are available at [:octocat:](https://github.com/Vatsal-24/)
 
@@ -12,7 +10,7 @@
 
 - 📫 How to reach me **vatsaldoshi11@gmail.com**
 
-- 📄 Know about my experiences [📂](https://drive.google.com/file/d/1R2599_5juLxmyZvE7ek2PHUczGCpBk6m/view?usp=sharing)
+- 📄 Know about my experiences [📂](https://drive.google.com/file/d/184Z3YXXf82SmXtoqPyNtN3hiPOmiTts_/view?usp=sharing)
 
 - 📜 A sneak peak of my checklist:
   - [x] 💻 Learn new concepts in CS.
