@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [:octocat:](https://github.com/Vatsal-24/)
 
-- 📝 I regularly write articles on [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vatsaldoshi11" height="30" width="40" />](https://medium.com/@vatsaldoshi11)
-
 - 📫 How to reach me **vatsaldoshi11@gmail.com**
 
 - 📄 Know about my experiences [📂](https://drive.google.com/file/d/184Z3YXXf82SmXtoqPyNtN3hiPOmiTts_/view?usp=sharing)
