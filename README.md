@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
 <h3 align="center">Eat | Sleep | Code | Invest | Repeat</h3>
 
-- 🔭 I’m currently working on **Crypto Alert**
+- 🔭 I’m currently working on **Coin control**
 
 - 👨‍💻 All of my projects are available at [:octocat:](https://github.com/Vatsal-24/)
 
