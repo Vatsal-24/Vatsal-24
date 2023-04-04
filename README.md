@@ -61,3 +61,8 @@
   - Version Control -&nbsp;
     ![Git](https://img.shields.io/static/v1?label=&message=Git&color=222&logo=git)
     ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=222&logo=github)
+
+
+
+
+<img align="left" alt="kunaltyagi9 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vatsal-24&show_icons=true&hide_border=true" />
